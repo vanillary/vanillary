@@ -1,3 +1,3 @@
-# vanillaryProfile
+# vanillary
 
 Hi there! 👋
