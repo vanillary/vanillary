@@ -7,7 +7,7 @@
 
 - :house_with_garden: I'm from the Philippines. 
 - :seedling: It wasn't I had originally planned but life happens and opportunity knocks but once, hence here I am trying to break into tech abroad.
-- :hammer_and_wrench: Mastering Python or whatever.
+- :hammer_and_wrench: I like Python.
 
 ---
 ### Languages and Tools :
