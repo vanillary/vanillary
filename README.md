@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100"/>
 </div>
 ---
-### About Me <img src="https://media.giphy.com/media/KzzfEKjSDku3aQ4HSa/giphy.gif" width="25" height="17"/>
+### <About Me <img src="https://media.giphy.com/media/KzzfEKjSDku3aQ4HSa/giphy.gif" width="25" height="17"/>
 
 - :house_with_garden: I'm from the Philippines. 
 - :seedling: It wasn't I had originally planned but life happens and opportunity knocks but once, hence here I am trying to break into tech abroad.
