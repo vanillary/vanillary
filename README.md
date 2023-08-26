@@ -3,11 +3,11 @@
 </div>
 ---
 ### About Me <img src="https://media.giphy.com/media/KzzfEKjSDku3aQ4HSa/giphy.gif" width="25" height="17"/>
-
+<div>
 - :house_with_garden: I'm from the Philippines. 
 - :seedling: It wasn't I had originally planned but life happens and opportunity knocks but once, hence here I am trying to break into tech abroad.
 - :hammer_and_wrench: I like Python.
-
+</div>
 ---
 ### Languages and Tools :
 <div>
